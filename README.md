@@ -2,4 +2,4 @@
 
 This is the usage video.
 
-https://github.com/Vitriol-nT/GlassDesign_I/issues/1#issue-3202797513
+https://github.com/user-attachments/assets/a624614d-e99c-4445-a027-28d92c42285e
