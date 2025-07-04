@@ -7,7 +7,6 @@ window.onload = function () {
     glass.addEventListener('mousedown', function (e) {
         isDragging = true;
 
-        // Calculate the offset between mouse and div's top-left corner
         const rect = glass.getBoundingClientRect();
         offsetX = e.clientX - rect.left;
         offsetY = e.clientY - rect.top;
